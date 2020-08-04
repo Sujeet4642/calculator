@@ -2,7 +2,7 @@ package github_try;
 
 import java.util.Scanner;
 
-public class Addsub {
+public class Operations {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int a;
